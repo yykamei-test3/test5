@@ -25,7 +25,7 @@ def c
 []
 end
 class A
-  def a
+  def aa
     a
   end
 end
