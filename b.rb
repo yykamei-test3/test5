@@ -25,3 +25,5 @@ Array.new(1000) do |idx|
     OK?
   DATA
 end
+
+# OK
